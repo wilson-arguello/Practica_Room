@@ -1,0 +1,5 @@
+.gradle/
+.idea/
+TrackMySleepQuality-Starter.iml
+app/app.iml
+local.properties
